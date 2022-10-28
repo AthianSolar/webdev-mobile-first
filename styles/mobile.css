@@ -30,9 +30,6 @@ nav ul li a { font-weight: bold;
 }
 .resize-img{ width: 100%; height: auto;
 }
-/* Just an experiment */
-section {
-    width: 50%; }
 nav ul li a {
 display: inline-block; width: 100%; font-weight: bold; text-decoration: none;
 color: #fff; padding: 8px 0;
